@@ -5,7 +5,7 @@ Olá! Se você parou aqui é provavelmente para ver minhas competências ou por 
 
 Meu nome é **Júlio Cesar** , tenho 20 anos até onde isso foi escrito 10/2022 e sou Estudante de TI no Senai. Tenho ensino médio completo e até onde me recordo sou alguem que está fadado a ir buscar estudos na internet pois a area de TI em meu país ainda é muito rebaixada. Abaixo deixarei meus objetivos futuros e atuais.
 
-* Estudante de Python e Java
+* Estudante de Front-End aspirando se tornar um full-stack no futuro com aprendizado em java ou c#.
 * Procurando se tornar no futuro um Engenheiro de Software
 * Procurando estágio (Não tá facil não)
 * Amante de Tecnologia (Mas odeio redes de computadores sinceramente)
